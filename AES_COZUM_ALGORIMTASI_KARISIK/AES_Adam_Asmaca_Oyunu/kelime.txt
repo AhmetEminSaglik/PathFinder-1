@@ -1,5 +1,0 @@
-Araba,
-Daire,
-Apartman,
-Dondurma,
-

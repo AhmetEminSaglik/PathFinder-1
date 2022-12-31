@@ -1,3 +1,0 @@
-IkiYonluListe
-Link
-LinkedList
