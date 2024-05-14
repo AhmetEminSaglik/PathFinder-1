@@ -62,6 +62,9 @@ The project can run `JDK 1.8+`
 * After installing JDK 8, install <a href="https://netbeans.apache.org/front/main/download/index.html">NetBeans IDE</a>
 
 2-) Copy and paste following command in your cmd. 
+```
+git clone https://github.com/AhmetEminSaglik/PathFinder-1.git
+```
 
 3-) Open Netbeans and open the project where did you clone.
 
