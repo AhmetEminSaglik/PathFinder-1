@@ -1,4 +1,18 @@
-!["PathFinderGif"](PathFinderGif.gif)
+<h2>GIF</h2>
+
+!["PathFinderGif"](image/PathFinderGif.gif)
+<!-- <img src="image/ss-cmd.png" alt="Resim 1" width="50%"><img src="image/ss-netbeans.png" alt="Resim 2" width="50%">-->
+
+<h2> Netbeans Output</h2>
+
+!["PathFinderGif"](image/ss-netbeans.png)
+
+<h2> Windows </h2>
+
+!["PathFinderGif"](image/ss-cmd.png)
+
+
+
 
 <br>
 <h2>Video Links</h2>
