@@ -37,7 +37,7 @@ The car/robot follows these steps :
 Here is a basic code these steps to understand better :
 <br><br>
 
-        if (bridge.isAvaiable) {
+        if (bridge.isAvailable) {
             goUp();
         } else if (car.direction = Direction.RIGHT && rightPath.isAvailable()) {
             goRight();
