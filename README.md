@@ -4,7 +4,7 @@
 <h2>Content</h2>
 <ul>
         <li><a href="#about-project">1-) About The Project</a></li>
-        <li><a href="#why-project-created">2-) Why The Project Is Created</a></li>
+        <li><a href="#why-project-created">2-) Why The Project Is Created?</a></li>
         <li><a href="#used-technologies">3-) Used Technologies </a></li>
         <li><a href="#images">4-) Images </a>
                 <ul> 
@@ -14,10 +14,10 @@
                 </ul>
         </li>
         <li><a href="#video-links">5-) Video Links</a></li>
-        <li><a href="#how-does-it-work">6-) How Does It Work?</a></li>
+        <li><a href="#workflow">6-) Workflow</a></li>
         <li><a href="#requirement">7-) Requirements</a></li>
         <li><a href="#quick-start">8-) Quick Start</a></li>
-        <li><a href="#how-to-run-in-netbeans">9-) How To Run In Netbeans?</a></li>
+        <li><a href="#installation">9-) Installation</a></li>
         
 </ul>
 
@@ -25,7 +25,7 @@
 The project aims to generate a random maze with a correct path from the start location to the exit location. This maze includes random bridges that allow the car/robot to move to the upper row in the maze. The car/robot has a random start location in the maze's lowest row, and its purpose is to move along the correct path to reach the exit.
 <br>
 
-<h2 id="why-project-created">2-) Why The Project Is Created</h2>
+<h2 id="why-project-created">2-) Why The Project Is Created?</h2>
 The project was created to improve algorithm skills in 2019 (first year at University). 
 
 <h2 id="used-technologies">3-) Used Technologies</h2>
@@ -75,28 +75,11 @@ The project was created to improve algorithm skills in 2019 (first year at Unive
 * <a href="https://www.linkedin.com/posts/ahmeteminsaglik_java-algorithm-algorithms-activity-7064986513301749761-bvRb/?utm_source=share&utm_medium=member_desktop"> Linkedin Link </a>
 
 
-<h2 id="how-does-it-work">6-) How Does It Work?</h2>
-The car/robot follows these steps : 
-<br><br>
-1-) If the bridge is available go upwards <br>
-2-) Else, if moving in the right direction and there is an available square, proceed in the right direction<br>
-3-) Else, move towards the reference point.<br>
-4-) Go left.
-<br><br>
-Here is a basic code for these steps to understand better :
+<h2 id="workflow">6-) Workflow?</h2>
+The flowchart below provides a brief overview of the program.
 <br><br>
 
-        if (bridge.isAvailable) {
-            goUp();
-        } else if (car.direction = Direction.RIGHT && rightPath.isAvailable()) {
-            goRight();
-        } else if (goingRight() && rightPath.isAvailable() == false) {
-            goReferanceLocation();
-            car.setDirection(Direction.LEFT);
-        } else {
-            goLeft();
-        }
-        
+!["workflow"](image/FlowChart.png)
 
 
 <h2 id="requirement">7-) Requirements</h2>
@@ -114,18 +97,18 @@ git clone https://github.com/AhmetEminSaglik/PathFinder-1.git
  java -jar  PathFinder-1/dist/AES_Robot_1.jar
 ```
 
-<h2 id="how-to-run-in-netbeans">9-) How To Run In Netbeans?</h2>
+<h2 id="installation">9-) Installation </h2>
 
 1-) Install these :
 <br>
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8">Java SE Development Kit 8 (JDK 8)</a>
-* After installing JDK 8, install <a href="https://netbeans.apache.org/front/main/download/index.html">NetBeans IDE</a>
+* After installing JDK 8, install <a href="https://netbeans.apache.org/front/main/download/index.html">NetBeans IDE</a> or <a href="https://www.jetbrains.com/idea/download/?section=windows"> Intelij Idea Community Edition</a>
 
 2-) Copy and paste the following command in your cmd. 
 ```
 git clone https://github.com/AhmetEminSaglik/PathFinder-1.git
 ```
 
-3-) Open Netbeans, and open the cloned project.
+3-) Open IDE, and open the cloned project.
 
 4-) The project is ready to run.
