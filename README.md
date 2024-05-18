@@ -8,9 +8,9 @@
         <li><a href="#used-technologies">3-) Used Technologies </a></li>
         <li><a href="#images">4-) Images </a>
                 <ul> 
-                        <li><a href="#gif">A-) GIF</a></li>
-                        <li><a href="#netbeans-output">B-) Netbeans Output</a></li>
-                        <li><a href="#windows-cmd-output">C-) Windows Cmd Output</a></li>
+                        <li><a href="#gif">I-) GIF</a></li>
+                        <li><a href="#netbeans-output">II-) Netbeans Output</a></li>
+                        <li><a href="#windows-cmd-output">III-) Windows Cmd Output</a></li>
                 </ul>
         </li>
         <li><a href="#video-links">5-) Video Links</a></li>
@@ -37,17 +37,17 @@ The project was created to improve algorithm skills in 2019 (first year at Unive
 
 <ul> 
         <li>
-<h3 id="gif">A-) GIF</h3>
+<h3 id="gif">I-) GIF</h3>
 
 !["PathFinderGif"](image/PathFinderGif.gif)
         <br><br></li>
         <li>
-<h3 id="netbeans-output">B-) Netbeans Output </h3>
+<h3 id="netbeans-output">II-) Netbeans Output </h3>
 
 !["PathFinderGif"](image/ss-netbeans.png)
         <br><br></li>
         <li>
-<h3 id="windows-cmd-output">C-) Windows Cmd Output </h3>
+<h3 id="windows-cmd-output">III-) Windows Cmd Output </h3>
 
 !["PathFinderGif"](image/ss-cmd.png)
        </li>
