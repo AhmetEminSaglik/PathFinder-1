@@ -102,7 +102,12 @@ git clone https://github.com/AhmetEminSaglik/PathFinder-1.git
 1-) Install these :
 <br>
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8">Java SE Development Kit 8 (JDK 8)</a>
-* After installing JDK 8, install <a href="https://netbeans.apache.org/front/main/download/index.html">NetBeans IDE</a> or <a href="https://www.jetbrains.com/idea/download/?section=windows"> Intelij Idea Community Edition</a>
+* After installing JDK 8, install one of the following IDE :
+<ul><ul>
+        <li> <a href="https://netbeans.apache.org/front/main/download/index.html">NetBeans IDE</a></li>
+        <li> <a href="https://www.jetbrains.com/idea/download/?section=windows"> Intelij IDEA (Community Edition) </a></li>
+</ul></ul>
+
 
 2-) Copy and paste the following command in your cmd. 
 ```
